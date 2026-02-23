@@ -1,0 +1,8 @@
+__pycache__/
+
+tests.py
+config.py
+api.py.old*
+tests.py
+todo.txt
+xcli.py.old
