@@ -16,6 +16,7 @@ Lets you browse:
 * Nutanix Categories
 * Prism Central
 * Prism Element
+
 And shows the UUID instantly in the terminal.
 
 ---
