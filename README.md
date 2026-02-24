@@ -21,6 +21,9 @@ Lets you browse:
 
 And shows the UUID instantly in the terminal.
 
+![xcli](https://github.com/user-attachments/assets/12fba010-3d05-4939-8651-ca86195e879a)
+
+
 ---
 
 **Tested on**
