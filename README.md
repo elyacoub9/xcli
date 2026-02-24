@@ -14,7 +14,7 @@ Lets you browse:
 * VMs
 * Images
 * Subnets
-* Containers
+* Storage Containers
 * Nutanix Categories
 * Prism Central
 * Prism Element
@@ -27,6 +27,7 @@ And shows the UUID instantly in the terminal.
 * prism central 7.5
 * AOS 7.5
 * AHV 11.0
+
 **How to use it**
 
 clone this repo:
